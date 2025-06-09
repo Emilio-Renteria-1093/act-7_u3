@@ -24,8 +24,8 @@ class MyApp extends StatelessWidget {
       initialRoute: "/",
       routes: {
         "/": (context)=> const Home(),
-        "/add": (context)=> const AddNamePage(),
-        "/edit": (context)=> const EditNamePage(),
+        "/add": (context)=> const AddServicioPage(),
+        "/edit": (context)=> const EditServicioPage(),
         
 
 
